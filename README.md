@@ -4,7 +4,7 @@ Email: elizabethv0218@hstat.org
 
 School: High School of Telecommunication Arts and Technology
 
-Bio: Elizabeth is sixteen years old and a junior in high school.
+Bio: Elizabeth is a sixteen year old junior in high school. She participates in the Software Engineering Program. She loves listening to music and being with her loved ones. She is a Mexican American who tries to excel in all her academics.
 
 Schedule:
 1. Gym/ AP Physics Lab
