@@ -1,6 +1,9 @@
 Elizabeth Vazquez
+
 Email: elizabethv0218@hstat.org
+
 School: High School of Telecommunication Arts and Technology
+
 Bio: Elizabeth is sixteen years old and a junior in high school.
 
 Schedule:
