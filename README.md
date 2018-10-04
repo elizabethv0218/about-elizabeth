@@ -14,3 +14,4 @@ Schedule:
 5. AP Spanish
 6. AP Calc
 7. U.S. History
+8. Lunch
