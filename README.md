@@ -3,7 +3,10 @@
 **School**: High School of Telecommunication Arts and Technology
 ---
 ### Biography
-Elizabeth Vazquez is a sixteen year old junior in high school. She participates in the _Software Engineering Program_. She loves listening to music and being with her loved ones. She is a Mexican American who tries to excel in all her academics.
+Elizabeth Vazquez is a sixteen year old junior at the High School of Telecommunication Arts and Technology.  
+There, she participates in the _Software Engineering Program_.  
+One thing she loves to do is listen to music and be with her loved ones.  
+She is a Mexican American who tries to excel in all her academics.
 
 ---
 ### Schedule
